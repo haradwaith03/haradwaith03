@@ -2,9 +2,7 @@
 
 🙋 I'm an engineer and technology enthusiast with +4 years’ experience in commercial projects in the field of industrial automation for Food & Beverage industry. 
 
-💻 Self-learner and curious by nature, I’ve always been involved with different programming languages and challenges. After taking a Javascript workshop, I felt in love with the language and web development. 
-
-🚀 Since then, I am searching for a career transition and developing my front-end skills by helping to improve user experience and performance.
+💻 Self-learner and curious by nature, I’ve always been involved with different programming languages and challenges: C, Java, Python..  After taking a Javascript workshop, I felt in love with the language and web development. 🚀 Since then, I am searching for a career transition and developing my front-end skills.
 
 📫 If you have some tips about front-end career, I'd love to hear and learn! Let's connect!
 
