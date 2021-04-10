@@ -1,4 +1,4 @@
-### Hello World, I'm Larissa  👋
+### Hello World, I'm Larissa  👋👩‍💻 
 
 🙋 I'm an engineer and technology enthusiast with +4 years’ experience in commercial projects in the field of industrial automation for Food & Beverage industry. 
 
