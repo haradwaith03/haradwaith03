@@ -1,9 +1,5 @@
 ### Hello World, I'm Larissa  👋👩‍💻 
 
-🙋 I'm an engineer and technology enthusiast with +4 years’ experience in commercial projects in the field of industrial automation for Food & Beverage industry. 
-
-💻 Self-learner and curious by nature, I’ve always been involved with different programming languages and challenges: C, Java, Python..  
-
 📫 Let's connect!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melolarissa/?locale=en_US)](https://www.linkedin.com/in/melolarissa/?locale=en_US)
